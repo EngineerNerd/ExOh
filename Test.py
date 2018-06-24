@@ -62,5 +62,6 @@ for i in range(9):
  
 
 duck()
-
+duck()
+duck()
 
