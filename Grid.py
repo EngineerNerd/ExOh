@@ -5,4 +5,7 @@ def sign(x):
         return 'negative'
     else:
         return 'zero'
-	
+
+
+def duck():
+	print("ducks are cute")
